@@ -1,4 +1,4 @@
-# Latent Direchlet Allocation (LDA) Model for Coherence scores and Topic Modelling
+# Latent Dirichlet Allocation (LDA) Model for Coherence scores and Topic Modelling
 
 Python implementation of the LDA algorithm along with Coherence score calculations. 
 
