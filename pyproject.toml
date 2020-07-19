@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "ldaCoherence"
+version = "0.1.0"
+description = ""
+authors = ["Jake A. Qualls <jakequeue@users.noreply.github.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+numpy = "^1.19.0"
+pandas = "^1.0.5"
+pprint = "^0.1"
+gensim = "^3.8.3"
+spacy = "^2.3.0"
+pyLDAvis = "^2.1.2"
+matplotlib = "^3.2.2"
+nltk = "^3.5"
+jupyter = "^1.0.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^4.6"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
