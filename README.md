@@ -1,8 +1,8 @@
-# Latent Dirichlet Allocation (LDA) Model for Coherence scores and Topic Modelling
+# Latent Dirichlet Allocation (LDA) Model for Coherence Scores and Topic Modelling
 
 Python implementation of the Gensim LDA algorithm along with Coherence score calculations. 
 
-Originally based on the following Gensim tutorial: https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#17howtofindtheoptimalnumberoftopicsforlda
+Based on the following Gensim tutorial: https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#17howtofindtheoptimalnumberoftopicsforlda
 
 Modifications have been made to adapt the tutorial to handle the collected Covid-19-TweetIDs dataset. 
 
